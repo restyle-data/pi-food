@@ -1,0 +1,78 @@
+Pancake
+Crèpe
+0=Omelettes
+0=Omurice
+Sushi
+0=Tacos
+0=Pizza
+Pasta
+Sandwiches
+Hamburgers
+0=Panini
+Fried Chickens
+Appetizers
+BBQ | Grilling
+0=Scrambled eggs
+0=Purée
+0=Tortilla
+0=Meatballs
+Chapati
+0=Noodles
+0=Kebab
+0=Lasagne
+
+Fried Rice
+0=Nachos
+Chicken Wings
+Biryani
+0=Pad Thai
+0=Spaghetti Bolognese
+Chili Con Carne
+Curry
+BBQ Ribs
+0=Roast Beef
+Grilled Cheese Sandwich
+Beef Stroganoff
+Club Sandwich
+Caesar Salad
+0=Shrimp Scampi
+Chicken Parmesan
+Beef Burritos
+0=Lobster Bisque
+Beef Wellington
+
+French Fries
+0=Roast Potatoes
+Garlic Bread
+0=Popcorn
+0=Pretzels
+Chicken Nuggets
+Buffalo Wings
+Ham
+0=Salami
+Corned Beef
+0=Pastrami
+0=Prosciutto
+Chorizo
+0=Kielbasa
+Bratwurst
+0=Spam
+0=Tofu Jerky
+0=Seaweed Snacks
+
+Bento Box | Lunch Box (Designs)
+Desserts
+0=Juices | Lemonades | Drinks
+Café | Tea
+
+0=Vegan recipes
+Healthy recipes
+Chia-based recipes
+
+Bangers (sausages)
+
+0=Street Food Art
+0=Goulash
+0=Pickles
+0=Bacon
+0=Andouille Sausage
