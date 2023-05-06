@@ -5,7 +5,7 @@ Crèpe
 Sushi
 0=Tacos
 0=Pizza
-Pasta
+0=Pasta
 Sandwiches
 Hamburgers
 0=Panini
