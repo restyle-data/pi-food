@@ -4,7 +4,7 @@ Omelettes
 Omurice
 Sushi
 Tacos
-0=Pizza
+Pizza
 0=Pasta
 Sandwiches
 Hamburgers
