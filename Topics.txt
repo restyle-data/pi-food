@@ -1,7 +1,7 @@
 Pancake
 Crèpe
 Omelettes
-0=Omurice
+Omurice
 Sushi
 Tacos
 0=Pizza
