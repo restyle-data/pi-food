@@ -5,7 +5,7 @@ Omurice
 Sushi
 Tacos
 Pizza
-0=Pasta
+Pasta
 Sandwiches
 Hamburgers
 Panini
