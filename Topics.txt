@@ -1,14 +1,14 @@
 Pancake
 Crèpe
-0=Omelettes
+Omelettes
 0=Omurice
 Sushi
-0=Tacos
+Tacos
 0=Pizza
 0=Pasta
 Sandwiches
 Hamburgers
-0=Panini
+Panini
 Fried Chickens
 Appetizers
 BBQ | Grilling
