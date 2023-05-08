@@ -22,7 +22,7 @@ Kebab
 Lasagne
 
 Fried Rice
-0=Nachos
+Nachos
 Chicken Wings
 Biryani
 0=Pad Thai
