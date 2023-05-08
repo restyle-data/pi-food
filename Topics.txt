@@ -13,7 +13,7 @@ Fried Chickens
 Appetizers
 BBQ | Grilling
 0=Scrambled eggs
-0=Purée
+Purée
 0=Tortilla
 0=Meatballs
 Chapati
