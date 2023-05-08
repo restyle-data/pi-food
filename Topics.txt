@@ -12,7 +12,7 @@ Panini
 Fried Chickens
 Appetizers
 BBQ | Grilling
-0=Scrambled eggs
+Scrambled eggs
 Purée
 Tortilla
 0=Meatballs
