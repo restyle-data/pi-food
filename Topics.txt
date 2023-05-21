@@ -1,3 +1,7 @@
+# ================
+# Validated Groups
+# ================
+
 Pancake
 Crèpe
 Omelettes
@@ -9,7 +13,6 @@ Pasta
 Sandwiches
 Hamburgers
 Panini
-Fried Chickens
 Appetizers
 BBQ | Grilling
 Scrambled eggs
@@ -76,3 +79,10 @@ Bangers (sausages)
 0=Pickles
 0=Bacon
 0=Andouille Sausage
+
+
+# ================
+# Excluded Groups
+# ================
+
+0=Fried Chickens
