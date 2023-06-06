@@ -4,44 +4,49 @@
 
 Pancake
 Crèpe
-Omelettes
-Omurice
 Sushi
 Tacos
-Pizza
-Pasta
 Sandwiches
-Hamburgers
 Panini
 Appetizers
 BBQ | Grilling
-Scrambled eggs
-Purée
 Tortilla
-0=Meatballs
 Chapati
-Noodles
 Kebab
 Lasagne
-
-Fried Rice
-Nachos
-Chicken Wings
 Biryani
-0=Pad Thai
-Spaghetti Bolognese
-Chili Con Carne
+Nachos
+
+
+# ================
+# Reviewed Groups (improvement needed)
+# ================
+
+Omelettes
 Curry
-BBQ Ribs
-Roast Beef
+Chili Con Carne
+Fried Rice
 Grilled Cheese Sandwich
+Hamburgers
+Pasta
+Pizza
+Purée
+Roast Beef
+Spaghetti Bolognese
+
+
+# ================
+# Groups To Verify
+# ================
+
+Meatballs
+Pad Thai
 Beef Stroganoff
 Club Sandwich
 Caesar Salad
 0=Shrimp Scampi
 Chicken Parmesan
 Beef Burritos
-0=Lobster Bisque
 Beef Wellington
 
 French Fries
@@ -65,7 +70,7 @@ Bratwurst
 
 Bento Box | Lunch Box (Designs)
 Desserts
-0=Juices | Lemonades | Drinks
+Juices | Lemonades | Drinks
 Café | Tea
 
 0=Vegan recipes
@@ -86,3 +91,9 @@ Bangers (sausages)
 # ================
 
 0=Fried Chickens
+0=Chicken Wings
+0=BBQ Ribs
+0=Noodles
+0=Omurice
+0=Scrambled eggs
+0=Lobster Bisque
